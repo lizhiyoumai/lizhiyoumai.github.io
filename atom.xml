@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>lizhiyoumai博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://lizhiyoumai.com/"/>
+  <updated>2019-11-21T08:25:39.699Z</updated>
+  <id>http://lizhiyoumai.com/</id>
+  
+  <author>
+    <name>lizhiyoumai</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://lizhiyoumai.com/2019/11/21/hello-world/"/>
+    <id>http://lizhiyoumai.com/2019/11/21/hello-world/</id>
+    <published>2019-11-21T08:25:39.699Z</published>
+    <updated>2019-11-21T08:25:39.699Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MarkDown 新手指南</title>
+    <link href="http://lizhiyoumai.com/2019/06/04/MarkDown-Use-Guide/"/>
+    <id>http://lizhiyoumai.com/2019/06/04/MarkDown-Use-Guide/</id>
+    <published>2019-06-04T11:28:51.000Z</published>
+    <updated>2019-11-21T08:42:29.740Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;标题&quot;&gt;&lt;a href=&quot;#标题&quot; class=&quot;headerlink&quot; title=&quot;标题&quot;&gt;&lt;/a&gt;标题&lt;/h1&gt;&lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="MarkDown" scheme="http://lizhiyoumai.com/categories/MarkDown/"/>
+    
+    
+      <category term="MarkDown" scheme="http://lizhiyoumai.com/tags/MarkDown/"/>
+    
+  </entry>
+  
+</feed>
