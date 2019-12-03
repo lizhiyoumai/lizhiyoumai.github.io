@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lizhiyoumai.com/"/>
-  <updated>2019-11-21T08:25:39.699Z</updated>
+  <updated>2019-12-03T08:14:59.040Z</updated>
   <id>http://lizhiyoumai.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://lizhiyoumai.com/2019/11/21/hello-world/"/>
-    <id>http://lizhiyoumai.com/2019/11/21/hello-world/</id>
-    <published>2019-11-21T08:25:39.699Z</published>
-    <updated>2019-11-21T08:25:39.699Z</updated>
+    <link href="http://lizhiyoumai.com/2019/11/04/hello-world/"/>
+    <id>http://lizhiyoumai.com/2019/11/04/hello-world/</id>
+    <published>2019-11-04T07:21:09.000Z</published>
+    <updated>2019-12-03T08:14:59.040Z</updated>
     
     <summary type="html">
     
@@ -36,6 +36,10 @@
     </summary>
     
     
+      <category term="test" scheme="http://lizhiyoumai.com/categories/test/"/>
+    
+    
+      <category term="hello" scheme="http://lizhiyoumai.com/tags/hello/"/>
     
   </entry>
   
